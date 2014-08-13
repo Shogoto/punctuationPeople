@@ -52,8 +52,7 @@
   <g
      inkscape:groupmode="layer"
      id="layer2"
-     inkscape:label="shadow"
-     sodipodi:insensitive="true">
+     inkscape:label="shadow">
     <path
        style="fill:#808080;stroke:none"
        d="m 45.812126,656.60954 c -18.87833,7.58771 16.394653,43.69485 112.668034,40.91144 55.43491,-1.6027 84.48082,2.62521 133.04465,-31.3653 135.7486,-16.01404 939.24429,-300.92901 -88.36593,-71.70782 -62.16169,5.82766 -157.346754,62.16168 -157.346754,62.16168 z"
@@ -65,8 +64,7 @@
      inkscape:label="Dot"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(0,-308.36218)"
-     sodipodi:insensitive="true">
+     transform="translate(0,-308.36218)">
     <path
        style="fill:#1a1a1a;stroke:#000000;stroke-width:30.76846504;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        d="m 160.42273,780.42924 c 83.73798,4.23632 131.44038,52.50234 128.20846,104.89783 -3.23192,52.39549 -4.62974,92.78738 -120.43826,97.12763 C 52.384433,986.79496 46.090626,944.62503 39.984465,893.09729 33.878316,841.56955 76.684724,776.1929 160.42273,780.42924 z"
